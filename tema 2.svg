@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lag_1" data-name="Lag 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 595.28 841.89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e5e3db;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #1e1e1c;
+        font-family: BodoniSvtyTwoITCTT-Bold, 'Bodoni 72';
+        font-size: 22.67px;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <text/>
+  <rect class="cls-2" x="30.33" y="28.95" width="126.26" height="47.31" rx="10.45" ry="10.45"/>
+  <path class="cls-1" d="M49.35,32.12h144.84c8.41,0,15.23,4.68,15.23,10.45v20.07c0,5.77-6.82,10.45-15.23,10.45H49.35c-8.41,0-15.23-4.68-15.23-10.45v-20.07c0-5.77,6.82-10.45,15.23-10.45Z"/>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(53.25 58.56) scale(.51 1)"><tspan x="0" y="0">Tema 2 - Grundlæggende Web </tspan></text>
+    <text/>
+  </g>
+</svg>
