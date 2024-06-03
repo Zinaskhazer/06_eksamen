@@ -10,19 +10,25 @@
       }
 
       .cls-2 {
-        fill: #1d1d1b;
-        font-family: DINCondensed-Bold, 'DIN Condensed';
-        font-size: 48px;
-        font-weight: 700;
-      }
-
-      .cls-3 {
         fill: #e5e3db;
         stroke-width: 0px;
       }
+
+      .cls-3 {
+        fill: #1d1d1b;
+        font-family: DINCondensed-Bold, 'DIN Condensed';
+        font-size: 173.3px;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4 {
+        isolation: isolate;
+      }
     </style>
   </defs>
-  <circle class="cls-1" cx="69.71" cy="77.59" r="51.97"/>
-  <circle class="cls-3" cx="69.51" cy="77.59" r="50"/>
-  <text class="cls-2" transform="translate(48.84 96.52) scale(1.06 1)"><tspan x="0" y="0">ZK</tspan></text>
+  <ellipse class="cls-1" cx="212.87" cy="213.25" rx="195.13" ry="187.63"/>
+  <ellipse class="cls-2" cx="212.12" cy="213.25" rx="187.73" ry="180.52"/>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(134.51 281.6) scale(1.1 1)"><tspan x="0" y="0">ZK</tspan></text>
+  </g>
 </svg>
