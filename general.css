@@ -266,18 +266,19 @@ footer {
 }
 
 /* ###### Se mine projekter container og knap  ###### */
+/* ############################ Se mine projekter container og knap  ############################ */
 div#semineprojekter {
-  text-align: center; /* placerer elementet i midten */
+  text-align: center;
 }
 button#projektKnap {
-  background-image: url(semineprojekterkknap.svg);
-  background-size: cover; /* Sikrer, at billedet dækker knappen */
-  width: 100px; /* Angiv en bredde på knappen */
-  height: 50px; /* Angiv en højde på knappen */
-  position: relative; /* Gør det muligt at bruge 'top' */
-  top: 50px; /* Juster efter behov */
-  border: none; /* Fjern standardknapstyling */
-  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  width: 200px;
+  height: 75px;
+  background-image: url(/projektKnap_illustrator.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 15%;
 }
 
 div#seprojekt {
