@@ -161,8 +161,9 @@ h3 {
   text-align: justify;
 }
 
-#imgmig {
+#mig {
   max-width: 100%;
+  object-fit: fill;
 }
 
 @media (max-width: 768px) {
@@ -185,7 +186,15 @@ h3 {
   .boks3 .boks4 {
     margin-bottom: 40px;
   }
-
+  a {
+    text-decoration: none;
+    color: black;
+    font-family: "josefin-sans", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 1.2rem;
+    padding: 30%;
+  }
   h1 {
     line-height: 2rem;
     font-size: 24px;
@@ -219,7 +228,7 @@ h3 {
     padding-bottom: 2rem;
   }
 
-  img#mig {
+  #mig {
     order: 10;
     width: 100%;
   }
