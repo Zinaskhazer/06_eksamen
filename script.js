@@ -10,45 +10,33 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // seprojektknap til tema 2 //
-const seProjektKnap = document.querySelector("#seprojektKnap");
 
 document.addEventListener("DOMContentLoaded", () => {
-  seProjektKnap.addEventListener("click", () => {
+  seProjekt1.addEventListener("click", () => {
     window.location.href = "http://zinasaleh.dk/kea/02_web/01_website/website/galleri.html";
   });
 });
 
-//
-
-//seprojektknap til tema 3
-const seProjektKnap = document.querySelector("#seprojektKnap");
+// seprojektknap til tema 3 //
 
 document.addEventListener("DOMContentLoaded", () => {
-  seProjektKnap.addEventListener("click", () => {
-    window.location.href = "- http://zinasaleh.dk/kea/03_ux/01_kodet_site/index.html";
+  seProjekt2.addEventListener("click", () => {
+    window.location.href = "http://zinasaleh.dk/kea/03_ux/01_kodet_site/index.html";
   });
 });
 
-//
-
-//seprojektknap til tema 4
-const seProjektKnap = document.querySelector("#seprojektKnap");
+// seprojektknap til tema 4 //
 
 document.addEventListener("DOMContentLoaded", () => {
-  seProjektKnap.addEventListener("click", () => {
-    window.location.href = "- http://zinasaleh.dk/kea/04_animation/website/spil.html";
+  seProjekt3.addEventListener("click", () => {
+    window.location.href = "http://zinasaleh.dk/kea/04_animation/website/spil.html";
   });
 });
 
-//
-
-//seprojektknap til tema 5
-const seProjektKnap = document.querySelector("#seprojektKnap");
+// seprojektknap til tema 5 //
 
 document.addEventListener("DOMContentLoaded", () => {
-  seProjektKnap.addEventListener("click", () => {
+  seProjekt4.addEventListener("click", () => {
     window.location.href = "https://zinasaleh.dk/05_indhold/centralhotelogcafe/about.html";
   });
 });
-
-//

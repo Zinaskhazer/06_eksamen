@@ -285,12 +285,64 @@ div#seprojekt {
   text-align: center;
 }
 button#seprojektKnap {
-  background-image: url(seprojektknap.svg);
-  background-size: cover; /* Sikrer, at billedet dækker knappen */
-  width: 100px; /* Angiv en bredde på knappen */
-  height: 50px; /* Angiv en højde på knappen */
-  position: relative; /* Gør det muligt at bruge 'top' */
-  top: -20px; /* Juster efter behov */
-  border: none; /* Fjern standardknapstyling */
+  background-color: transparent;
+  border: none;
+  width: 200px;
+  height: 75px;
+  background-image: url(/projektKnap_illustrator.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 15%;
+}
+
+.link-knap1 {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
   cursor: pointer;
+  justify-content: center;
+}
+
+.link-knap2 {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  justify-content: center;
+}
+
+.link-knap3 {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  justify-content: center;
+}
+
+.link-knap4 {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  justify-content: center;
 }
