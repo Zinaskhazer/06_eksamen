@@ -14,7 +14,6 @@ html {
   --primary: #e5e3db;
   --secondary: #3b4b46;
   --accent: #050505;
-  --brun: #000000;
 }
 
 body {
@@ -157,7 +156,6 @@ footer {
     background-color: var(--primary);
     padding: 1.5rem;
   }
-  /* logoet er sat ind som baggrundsbillede, i stedet for img tag i menuen */
   #logo {
     background-image: url(/logo.svg);
     background-size: cover;
@@ -193,6 +191,7 @@ footer {
     font-weight: 600;
     font-style: normal;
     font-size: 1.5rem;
+    padding: 40%;
   }
 
   .streg1 {
@@ -206,8 +205,7 @@ footer {
   }
 
   .header li a {
-    /* padding: 20px 30px; */
-    padding: 60px 70px; /* disse værdier er dem der gør logoet større i desktop */
+    padding: 60px 70px;
   }
   .header .menu {
     clear: none;
@@ -230,7 +228,6 @@ footer {
   img.logo-mobil {
     width: 30%;
   }
-  /* 'boks' rundt om logoet så vi kan styre højden */
   div.logo-mobil-container {
     height: 110px;
   }

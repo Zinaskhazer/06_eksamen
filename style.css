@@ -133,6 +133,11 @@ h3 {
   font-size: 150%;
   margin-top: -2%;
 }
+#overskrift6 {
+  padding-bottom: 4rem;
+  font-size: 150%;
+  margin-top: -2%;
+}
 
 .grid_1-1 {
   display: grid;
@@ -215,7 +220,9 @@ h3 {
     padding-bottom: 2rem;
   }
 
-  .mig.webp {
+  img#mig {
     order: 10;
+    width: 100%;
+    height: 30%;
   }
 }
