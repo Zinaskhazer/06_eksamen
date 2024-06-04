@@ -16,7 +16,7 @@ h2 {
   font-family: "josefin-sans", sans-serif;
   font-weight: 700;
   font-style: normal;
-  margin-top: 12%;
+  margin-top: 9%;
 }
 h3 {
   font-size: 40px;
@@ -163,7 +163,7 @@ h3 {
 
 #mig {
   max-width: 100%;
-  object-fit: fill;
+  height: auto;
 }
 
 @media (max-width: 768px) {
@@ -193,7 +193,8 @@ h3 {
     font-weight: 600;
     font-style: normal;
     font-size: 1.2rem;
-    padding: 30%;
+    padding: 33%;
+    margin-bottom: 7%;
   }
   h1 {
     line-height: 2rem;
@@ -221,15 +222,9 @@ h3 {
   #overskrift4 {
     padding-bottom: 2rem;
   }
-  #overskrift5 {
-    padding-bottom: 2rem;
-  }
-  #overskrift5 {
-    padding-bottom: 2rem;
-  }
+}
 
-  #mig {
-    order: 10;
-    width: 100%;
-  }
+#mig {
+  order: 10;
+  width: 100%;
 }
