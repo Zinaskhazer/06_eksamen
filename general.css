@@ -215,6 +215,9 @@ footer {
   .header .menu-icon {
     display: none;
   }
+  #imgmig {
+    width: 100%;
+  }
 }
 
 @media (max-width: 768px) {
