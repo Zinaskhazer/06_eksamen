@@ -24,6 +24,10 @@ main {
   padding: 1.5rem;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
 /* ----------------------------HEADER / BURGERMENU---------------------------- */
 
 .header {
@@ -156,13 +160,23 @@ footer {
     background-color: var(--primary);
     padding: 1.5rem;
   }
-  #logo {
+  /*  #logo {
     background-image: url(/logo.svg);
     background-size: cover;
-  }
+    width: 10%;
+  } */
   /* skjuler mobilloget i desktop skærm */
   #logo_mobil {
     display: none;
+  }
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  nav img {
+    max-width: 40%;
   }
 
   .menu {
@@ -170,9 +184,11 @@ footer {
     justify-content: space-evenly;
     align-items: center;
     list-style: none;
+    gap: 20px;
   }
 
   .menu a {
+    max-width: fit-content;
     transition: all 0.3s ease 0s;
     color: #000000;
   }
@@ -191,7 +207,7 @@ footer {
     font-weight: 600;
     font-style: normal;
     font-size: 1.5rem;
-    padding: 43%;
+    /*   padding: 43%; */
   }
 
   .streg1 {
@@ -204,9 +220,6 @@ footer {
     margin-top: 0.3rem;
   }
 
-  .header li a {
-    padding: 60px 70px;
-  }
   .header .menu {
     clear: none;
     max-height: none;
@@ -215,8 +228,10 @@ footer {
   .header .menu-icon {
     display: none;
   }
-  #imgmig {
+  #mig {
     width: 100%;
+    align-self: stretch;
+    object-fit: cover;
   }
 }
 
@@ -233,6 +248,10 @@ footer {
   }
   div.logo-mobil-container {
     height: 110px;
+  }
+
+  .logodesk {
+    display: none;
   }
 
   /* placering af logoet */
