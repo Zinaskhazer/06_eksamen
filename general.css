@@ -294,20 +294,7 @@ button#projektKnap {
   background-repeat: no-repeat;
   margin-top: 11%;
 }
-
-div#seprojekt {
-  text-align: center;
-}
-button#seprojektKnap {
-  background-color: transparent;
-  border: none;
-  width: 200px;
-  height: 75px;
-  background-image: url(/projektKnap_illustrator.svg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  margin-top: 15%;
-}
+/* ############################ link kanpper  ############################ */
 
 .link-knap1 {
   display: inline-block;
