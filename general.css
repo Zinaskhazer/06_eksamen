@@ -160,12 +160,7 @@ footer {
     background-color: var(--primary);
     padding: 1.5rem;
   }
-  /*  #logo {
-    background-image: url(/logo.svg);
-    background-size: cover;
-    width: 10%;
-  } */
-  /* skjuler mobilloget i desktop skærm */
+
   #logo_mobil {
     display: none;
   }
@@ -243,7 +238,7 @@ footer {
     visibility: hidden;
   }
   /* ######## Mobil logo styling ########## */
-  /* mobil logos størrelse */
+
   img.logo-mobil {
     width: 30%;
   }
