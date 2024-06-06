@@ -285,14 +285,18 @@ div#semineprojekter {
   text-align: center;
 }
 button#projektKnap {
+  font-family: "josefin-sans", sans-serif;
+  font-size: 20px;
   background-color: transparent;
-  border: none;
+  border: 3px solid black; /* Tilføjer en sort kant */
+  border-radius: 15px; /* Gør knappens kanter runde */
   width: 200px;
   height: 75px;
-  background-image: url(/projektKnapillustrator1.svg);
+  background-color: white;
   background-size: cover;
   background-repeat: no-repeat;
-  margin-top: 11%;
+  margin-top: 7%;
+  margin-bottom: 10%;
 }
 /* ############################ link kanpper  ############################ */
 
