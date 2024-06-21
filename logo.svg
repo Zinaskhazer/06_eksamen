@@ -3,37 +3,35 @@
   <defs>
     <style>
       .cls-1 {
-        stroke: #fff;
-        stroke-miterlimit: 10;
-        stroke-width: 4px;
-      }
-
-      .cls-1, .cls-2 {
-        fill: #fff;
-      }
-
-      .cls-3 {
-        fill: #f7b2bd;
-        stroke-width: 0px;
-      }
-
-      .cls-2 {
+        fill: #e34a6f;
         font-family: DINCondensed-Bold, 'DIN Condensed';
         font-size: 173.3px;
         font-weight: 700;
       }
 
-      .cls-2, .cls-4 {
+      .cls-1, .cls-2 {
         isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: #e34a6f;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
       }
     </style>
   </defs>
-  <ellipse class="cls-1" cx="212.9" cy="213.3" rx="195.1" ry="187.6"/>
-  <ellipse class="cls-3" cx="212.1" cy="213.3" rx="187.7" ry="180.5"/>
-  <g class="cls-4">
-    <g class="cls-4">
-      <g class="cls-4">
-        <text class="cls-2" transform="translate(134.5 281.6) scale(1.1 1)"><tspan x="0" y="0">ZK</tspan></text>
+  <ellipse class="cls-3" cx="226.1" cy="205.7" rx="187.7" ry="180.5"/>
+  <g class="cls-2">
+    <g class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <g class="cls-2">
+              <text class="cls-1" transform="translate(150.8 265.3) scale(1.1 1)"><tspan x="0" y="0">ZK</tspan></text>
+            </g>
+          </g>
+        </g>
       </g>
     </g>
   </g>

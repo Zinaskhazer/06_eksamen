@@ -293,66 +293,14 @@ button#projektKnap {
   font-family: "josefin-sans", sans-serif;
   font-size: 15px;
   font-weight: 700;
-  border: 3px solid #fffcfc; /* Tilføjer en sort kant */
+  border: 3px solid #e34a6f; /* Tilføjer en sort kant */
   border-radius: 15px; /* Gør knappens kanter runde */
   width: 200px;
   height: 75px;
-  background-color: #ffffff;
+  background-color:#e5e3db
   background-size: cover;
   background-repeat: no-repeat;
-  margin-top: -14%;
+  margin-top: 14%;
   margin-bottom: 1%;
 }
-/* ############################ link kanpper  ############################ */
 
-.link-knap1 {
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 16px;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  text-decoration: none;
-  text-align: center;
-  cursor: pointer;
-  justify-content: center;
-}
-
-.link-knap2 {
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 16px;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  text-decoration: none;
-  text-align: center;
-  cursor: pointer;
-  justify-content: center;
-}
-
-.link-knap3 {
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 16px;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  text-decoration: none;
-  text-align: center;
-  cursor: pointer;
-  justify-content: center;
-}
-
-.link-knap4 {
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 16px;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  text-decoration: none;
-  text-align: center;
-  cursor: pointer;
-  justify-content: center;
-}
