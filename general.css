@@ -299,3 +299,24 @@ button#projektKnap {
   margin-top: 12%;
   margin-bottom: 14%;
 }
+
+/* ######  TEMA 2 CSS ###### */
+
+.tema2-tekst {
+  font-family: "josefin-sans", sans-serif;
+  text-align: center;
+  margin: auto;
+  line-height: 2rem;
+}
+.tema2-grid {
+  margin-left: 60px;
+  margin-bottom: 30px;
+}
+.tema2-htmlfil {
+  margin-right: 15px;
+}
+/* ######  TEMA 3 CSS ###### */
+
+/* ######  TEMA 4 CSS ###### */
+
+/* ######  TEMA 5 CSS ###### */

@@ -28,7 +28,9 @@
         <g class="cls-2">
           <g class="cls-2">
             <g class="cls-2">
-              <text class="cls-1" transform="translate(150.8 265.3) scale(1.1 1)"><tspan x="0" y="0">ZK</tspan></text>
+              <g class="cls-2">
+                <text class="cls-1" transform="translate(150.8 265.3) scale(1.1 1)"><tspan x="0" y="0">ZK</tspan></text>
+              </g>
             </g>
           </g>
         </g>
