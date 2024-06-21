@@ -11,7 +11,7 @@ html {
 }
 
 html {
-  --primary: #e5e3db;
+  --primary: #dfc6c6;
   --secondary: #3b4b46;
   --accent: #050505;
 }
@@ -228,6 +228,8 @@ footer {
     align-self: stretch;
     object-fit: cover;
   }
+  #forsidebillede {
+  }
 }
 
 @media (max-width: 768px) {
@@ -288,11 +290,11 @@ button#projektKnap {
   font-family: "josefin-sans", sans-serif;
   font-size: 15px;
   font-weight: 700;
-  border: 5px solid white; /* Tilføjer en sort kant */
+  border: 3px solid #fffcfc; /* Tilføjer en sort kant */
   border-radius: 15px; /* Gør knappens kanter runde */
   width: 200px;
   height: 75px;
-  background-color: transparent;
+  background-color: #ffffff;
   background-size: cover;
   background-repeat: no-repeat;
   margin-top: 7%;
