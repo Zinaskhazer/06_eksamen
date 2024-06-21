@@ -229,6 +229,8 @@ footer {
     object-fit: cover;
   }
   #forsidebillede {
+    margin-left: 90px;
+    width: 80%;
   }
 }
 
@@ -297,8 +299,8 @@ button#projektKnap {
   background-color: #ffffff;
   background-size: cover;
   background-repeat: no-repeat;
-  margin-top: 7%;
-  margin-bottom: 10%;
+  margin-top: -14%;
+  margin-bottom: 1%;
 }
 /* ############################ link kanpper  ############################ */
 
