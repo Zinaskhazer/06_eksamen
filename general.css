@@ -1,7 +1,6 @@
 html {
-  --primary: #e5e3db;
-  --secondary: #3b4b46;
-  --accent: #000000;
+  --primary: #dfc6c6;
+  --accent: #e34a6f;
 }
 
 * {
@@ -12,8 +11,7 @@ html {
 
 html {
   --primary: #dfc6c6;
-  --secondary: #3b4b46;
-  --accent: #050505;
+  --accent: #e34a6f;
 }
 
 body {
@@ -297,10 +295,7 @@ button#projektKnap {
   border-radius: 15px; /* Gør knappens kanter runde */
   width: 200px;
   height: 75px;
-  background-color:#e5e3db
-  background-size: cover;
-  background-repeat: no-repeat;
-  margin-top: 14%;
-  margin-bottom: 1%;
+  background-color: #ffffff;
+  margin-top: 12%;
+  margin-bottom: 14%;
 }
-
