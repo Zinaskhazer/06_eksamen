@@ -283,7 +283,6 @@ footer {
 }
 
 /* ###### Se mine projekter container og knap  ###### */
-/* ############################ Se mine projekter container og knap  ############################ */
 div#semineprojekter {
   text-align: center;
 }
@@ -292,6 +291,75 @@ button#projektKnap {
   font-size: 15px;
   font-weight: 700;
   border: 3px solid #e34a6f; /* Tilføjer en sort kant */
+  border-radius: 15px; /* Gør knappens kanter runde */
+  width: 200px;
+  height: 75px;
+  background-color: #ffffff;
+  margin-top: 12%;
+  margin-bottom: 14%;
+}
+
+/* ###### Se tema 2 projekt container og knap  ###### */
+div#setema2 {
+  text-align: center;
+}
+button#tema2 {
+  font-family: "josefin-sans", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  border: 3px solid #e34a6f;
+  border-radius: 15px; /* Gør knappens kanter runde */
+  width: 200px;
+  height: 75px;
+  background-color: #ffffff;
+  margin-top: 12%;
+  margin-bottom: 14%;
+}
+
+/* ###### Se tema 3 projekt container og knap  ###### */
+
+div#setema3 {
+  text-align: center;
+}
+button#tema3 {
+  font-family: "josefin-sans", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  border: 3px solid #e34a6f;
+  border-radius: 15px; /* Gør knappens kanter runde */
+  width: 200px;
+  height: 75px;
+  background-color: #ffffff;
+  margin-top: 12%;
+  margin-bottom: 14%;
+}
+
+/* ###### Se tema 4 projekt container og knap  ###### */
+div#setema4 {
+  text-align: center;
+}
+button#tema4 {
+  font-family: "josefin-sans", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  border: 3px solid #e34a6f;
+  border-radius: 15px; /* Gør knappens kanter runde */
+  width: 200px;
+  height: 75px;
+  background-color: #ffffff;
+  margin-top: 12%;
+  margin-bottom: 14%;
+}
+
+/* ###### Se tema 5 projekt container og knap  ###### */
+div#setema5 {
+  text-align: center;
+}
+button#tema5 {
+  font-family: "josefin-sans", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  border: 3px solid #e34a6f;
   border-radius: 15px; /* Gør knappens kanter runde */
   width: 200px;
   height: 75px;
@@ -316,7 +384,45 @@ button#projektKnap {
   margin-right: 15px;
 }
 /* ######  TEMA 3 CSS ###### */
+.tema3-tekst {
+  font-family: "josefin-sans", sans-serif;
+  text-align: center;
+  margin: auto;
+  line-height: 2rem;
+}
+.tema3-grid {
+  margin-left: 60px;
+  margin-bottom: 30px;
+}
+.tema3-htmlfil {
+  margin-right: 15px;
+}
 
 /* ######  TEMA 4 CSS ###### */
-
+.tema4-tekst {
+  font-family: "josefin-sans", sans-serif;
+  text-align: center;
+  margin: auto;
+  line-height: 2rem;
+}
+.tema4-grid {
+  margin-left: 60px;
+  margin-bottom: 30px;
+}
+.tema4-htmlfil {
+  margin-right: 15px;
+}
 /* ######  TEMA 5 CSS ###### */
+.tema5-tekst {
+  font-family: "josefin-sans", sans-serif;
+  text-align: center;
+  margin: auto;
+  line-height: 2rem;
+}
+.tema5-grid {
+  margin-left: 60px;
+  margin-bottom: 30px;
+}
+.tema5-htmlfil {
+  margin-right: 15px;
+}
