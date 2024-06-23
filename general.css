@@ -131,7 +131,7 @@ footer {
 .footer_tekst {
   padding: 2rem 0 2rem 0;
   text-align: center;
-  margin-left: 25%;
+  margin-left: 7%;
 }
 
 #footer_overskrift {
@@ -288,6 +288,7 @@ footer {
 /* ###### Se mine projekter container og knap  ###### */
 div#semineprojekter {
   text-align: center;
+  position: relative;
 }
 button#projektKnap {
   font-family: "josefin-sans", sans-serif;
@@ -298,7 +299,7 @@ button#projektKnap {
   width: 200px;
   height: 75px;
   background-color: #ffffff;
-  margin-top: 12%;
+  margin-top: 5%; /* Reduceret for at flytte knappen højere op */
   margin-bottom: 14%;
 }
 
