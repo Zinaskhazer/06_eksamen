@@ -25,6 +25,8 @@ main {
 img {
   max-width: 100%;
   height: auto;
+  display: block;
+  border-radius: 10px;
 }
 /* ----------------------------HEADER / BURGERMENU---------------------------- */
 
@@ -129,6 +131,7 @@ footer {
 .footer_tekst {
   padding: 2rem 0 2rem 0;
   text-align: center;
+  margin-left: 25%;
 }
 
 #footer_overskrift {
@@ -372,9 +375,12 @@ button#tema5 {
 
 .tema2-tekst {
   font-family: "josefin-sans", sans-serif;
+  font-weight: 300;
   text-align: center;
   margin: auto;
   line-height: 2rem;
+  padding: 51px;
+  margin-top: -36px;
 }
 .tema2-grid {
   margin-left: 60px;
@@ -386,9 +392,12 @@ button#tema5 {
 /* ######  TEMA 3 CSS ###### */
 .tema3-tekst {
   font-family: "josefin-sans", sans-serif;
+  font-weight: 300;
   text-align: center;
   margin: auto;
   line-height: 2rem;
+  padding: 51px;
+  margin-top: -36px;
 }
 .tema3-grid {
   margin-left: 60px;
@@ -401,9 +410,12 @@ button#tema5 {
 /* ######  TEMA 4 CSS ###### */
 .tema4-tekst {
   font-family: "josefin-sans", sans-serif;
+  font-weight: 300;
   text-align: center;
   margin: auto;
   line-height: 2rem;
+  padding: 51px;
+  margin-top: -36px;
 }
 .tema4-grid {
   margin-left: 60px;
@@ -415,9 +427,12 @@ button#tema5 {
 /* ######  TEMA 5 CSS ###### */
 .tema5-tekst {
   font-family: "josefin-sans", sans-serif;
+  font-weight: 300;
   text-align: center;
   margin: auto;
   line-height: 2rem;
+  padding: 51px;
+  margin-top: -36px;
 }
 .tema5-grid {
   margin-left: 60px;
