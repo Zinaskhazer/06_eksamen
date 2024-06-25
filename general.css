@@ -383,13 +383,25 @@ button#tema5 {
   padding: 51px;
   margin-top: -36px;
 }
-.tema2-grid {
-  margin-left: 60px;
-  margin-bottom: 30px;
+.tema2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* To lige store kolonner */
+  gap: 20px; /* Afstand mellem kolonnerne */
 }
+
+.tema2-grid,
 .tema2-htmlfil {
-  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
+
+.tema2 img {
+  max-width: 100%; /* Sikrer, at billederne ikke overstiger deres container */
+  height: auto;
+}
+
 /* ######  TEMA 3 CSS ###### */
 .tema3-tekst {
   font-family: "josefin-sans", sans-serif;
@@ -400,12 +412,23 @@ button#tema5 {
   padding: 51px;
   margin-top: -36px;
 }
-.tema3-grid {
-  margin-left: 60px;
-  margin-bottom: 30px;
+.tema3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* To lige store kolonner */
+  gap: 20px; /* Afstand mellem kolonnerne */
 }
+
+.tema3-grid,
 .tema3-htmlfil {
-  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.tema3 img {
+  max-width: 100%; /* Sikrer, at billederne ikke overstiger deres container */
+  height: auto;
 }
 
 /* ######  TEMA 4 CSS ###### */
@@ -418,12 +441,23 @@ button#tema5 {
   padding: 51px;
   margin-top: -36px;
 }
-.tema4-grid {
-  margin-left: 60px;
-  margin-bottom: 30px;
+.tema4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* To lige store kolonner */
+  gap: 20px; /* Afstand mellem kolonnerne */
 }
+
+.tema4-grid,
 .tema4-htmlfil {
-  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.tema4 img {
+  max-width: 100%; /* Sikrer, at billederne ikke overstiger deres container */
+  height: auto;
 }
 /* ######  TEMA 5 CSS ###### */
 .tema5-tekst {
@@ -435,10 +469,21 @@ button#tema5 {
   padding: 51px;
   margin-top: -36px;
 }
-.tema5-grid {
-  margin-left: 60px;
-  margin-bottom: 30px;
+.tema5 {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* To lige store kolonner */
+  gap: 20px; /* Afstand mellem kolonnerne */
 }
+
+.tema5-grid,
 .tema5-htmlfil {
-  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.tema5 img {
+  max-width: 100%; /* Sikrer, at billederne ikke overstiger deres container */
+  height: auto;
 }
