@@ -142,7 +142,7 @@ h2 {
     margin-top: 5%;
   }
 }
-/* Grid for projekter (mobile first) */
+/* Grid for projekter siden (mobile first) */
 .grid2-img {
   display: grid;
   grid-template-columns: 1fr;
