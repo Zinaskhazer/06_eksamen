@@ -261,4 +261,16 @@ h2 {
     grid-template-columns: 1fr 1fr;
     align-items: center;
   }
+  button#projektKnap {
+    font-family: "josefin-sans", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    border: 3px solid #e34a6f; /* Tilføjer en sort kant */
+    border-radius: 15px; /* Gør knappens kanter runde */
+    width: 200px;
+    height: 75px;
+    background-color: #ffffff;
+    margin-top: 5%;
+    margin-bottom: 14%;
+  }
 }
