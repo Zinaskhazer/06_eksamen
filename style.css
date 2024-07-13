@@ -236,7 +236,7 @@ h2 {
     width: 100%;
     height: 100%;
     background: rgba(0, 0, 0, 0.5);
-    opacity: 1; /* Vises som standard */
+    opacity: 1;
     transition: opacity 0.3s ease;
     border-radius: 5px;
   }
@@ -265,8 +265,8 @@ h2 {
     font-family: "josefin-sans", sans-serif;
     font-size: 15px;
     font-weight: 700;
-    border: 3px solid #e34a6f; /* Tilføjer en sort kant */
-    border-radius: 15px; /* Gør knappens kanter runde */
+    border: 3px solid #e34a6f;
+    border-radius: 15px;
     width: 200px;
     height: 75px;
     background-color: #ffffff;
