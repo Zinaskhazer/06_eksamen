@@ -30,7 +30,7 @@ h2 {
   margin-bottom: 80px;
 }
 
-.boks6 {
+.boks2 {
   background-color: #ffffff;
   width: 100%;
   margin-bottom: 80px;
@@ -101,9 +101,7 @@ h2 {
   }
 
   .boks1,
-  .boks2,
-  .boks3,
-  .boks4 {
+  .boks2 {
     margin-bottom: 40px;
   }
   a {
