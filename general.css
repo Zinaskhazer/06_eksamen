@@ -378,96 +378,11 @@ button#tema5 {
   margin-left: 81%;
 }
 
-/* ######  TEMA 2 CSS ###### */
+/* ######  Styling til alle temaer ###### */
 
-.tema2-tekst {
-  font-family: "josefin-sans", sans-serif;
-  font-weight: 300;
-  text-align: center;
-  margin: auto;
-  line-height: 2rem;
-  padding: 51px;
-  margin-top: -36px;
-}
-.tema2 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-}
-
-.tema2-grid,
-.tema2-htmlfil {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
-
-.tema2 img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* ######  TEMA 3 CSS ###### */
-.tema3-tekst {
-  font-family: "josefin-sans", sans-serif;
-  font-weight: 300;
-  text-align: center;
-  margin: auto;
-  line-height: 2rem;
-  padding: 51px;
-  margin-top: -36px;
-}
-.tema3 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-}
-
-.tema3-grid,
-.tema3-htmlfil,
-.tema3-styletile,
-.tema3-moodboard {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
-
-.tema3 img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* ######  TEMA 4 CSS ###### */
-.tema4-tekst {
-  font-family: "josefin-sans", sans-serif;
-  font-weight: 300;
-  text-align: center;
-  margin: auto;
-  line-height: 2rem;
-  padding: 51px;
-  margin-top: -36px;
-}
-.tema4 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-}
-
-.tema4-aktivitetsdiagram,
-.tema4-statemachinediagram .tema4-javascript {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
-
-.tema4 img {
-  max-width: 100%;
-  height: auto;
-}
-/* ######  TEMA 5 CSS ###### */
+.tema2-tekst,
+.tema3-tekst,
+.tema4-tekst,
 .tema5-tekst {
   font-family: "josefin-sans", sans-serif;
   font-weight: 300;
@@ -477,12 +392,25 @@ button#tema5 {
   padding: 51px;
   margin-top: -36px;
 }
+
+.tema2,
+.tema3,
+.tema4,
 .tema5 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
 }
 
+.tema2-grid,
+.tema2-htmlfil,
+.tema3-grid,
+.tema3-htmlfil,
+.tema3-styletile,
+.tema3-moodboard,
+.tema4-aktivitetsdiagram,
+.tema4-statemachinediagram,
+.tema4-javascript,
 .tema5-github,
 .tema5-htmlfil {
   display: flex;
@@ -491,6 +419,9 @@ button#tema5 {
   text-align: center;
 }
 
+.tema2 img,
+.tema3 img,
+.tema4 img,
 .tema5 img {
   max-width: 100%;
   height: auto;
