@@ -23,37 +23,14 @@ h2 {
   margin-bottom: 5%;
   color: black;
 }
-
-.boks1 {
-  background-color: #ffffff;
-  width: 100%;
-  margin-bottom: 80px;
-}
-
+.boks1,
 .boks2 {
   background-color: #ffffff;
   width: 100%;
   margin-bottom: 80px;
 }
-.tekst1 {
-  margin: 5rem;
-  font-size: 18px;
-  font-family: "josefin-sans", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  line-height: 2rem;
-  color: rgb(0, 0, 0);
-}
-.tekst2 {
-  margin: 5rem;
-  font-size: 18px;
-  font-family: "josefin-sans", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  line-height: 2rem;
-  color: rgb(0, 0, 0);
-}
-
+.tekst1,
+.tekst2,
 .tekst5 {
   margin: 5rem;
   font-size: 18px;
@@ -89,9 +66,7 @@ h2 {
 
 @media (max-width: 768px) {
   .tekst1,
-  .tekst2,
-  .tekst3,
-  .tekst4 {
+  .tekst2 {
     margin: 1rem;
     font-size: 16px;
   }
@@ -134,10 +109,6 @@ h2 {
   }
   #overskrift {
     padding-bottom: 2rem;
-  }
-  #overskrift2 {
-    padding-bottom: 2rem;
-    margin-top: 5%;
   }
 }
 /* Grid for projekter siden (mobile first) */
