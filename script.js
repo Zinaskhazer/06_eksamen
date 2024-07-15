@@ -1,4 +1,4 @@
-// En const til knappen så vi kan refere til den med det navn
+// En const til knappen så man kan refere til den med det navn
 const seProjekterKnap = document.querySelector("#projektKnap");
 
 // når HTML er hentet helt ind, så tilføjes en eventListener, der gør knappen klibar, og

@@ -23,15 +23,13 @@ h2 {
   margin-bottom: 5%;
   color: black;
 }
-.boks1,
-.boks2 {
+.boks1 {
   background-color: #ffffff;
   width: 100%;
   margin-bottom: 80px;
 }
 .tekst1,
-.tekst2,
-.tekst5 {
+.tekst2 {
   margin: 5rem;
   font-size: 18px;
   font-family: "josefin-sans", sans-serif;
