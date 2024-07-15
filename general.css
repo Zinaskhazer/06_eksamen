@@ -385,15 +385,6 @@ button#tema5 {
   margin-top: -36px;
 }
 
-.tema2,
-.tema3,
-.tema4,
-.tema5 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-}
-
 .tema2-grid,
 .tema2-htmlfil,
 .tema3-grid,
