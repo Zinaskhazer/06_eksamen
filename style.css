@@ -128,7 +128,6 @@ h2 {
   border-radius: 10px;
 }
 
-/* Styling for større skærme (over 750px) */
 @media only screen and (min-width: 750px) {
   .baggrund {
     top: -60px;
@@ -230,16 +229,16 @@ h2 {
     grid-template-columns: 1fr 1fr;
     align-items: center;
   }
-  button#projektKnap {
-    font-family: "josefin-sans", sans-serif;
-    font-size: 15px;
-    font-weight: 700;
-    border: 3px solid #e34a6f;
-    border-radius: 15px;
-    width: 200px;
-    height: 75px;
-    background-color: #ffffff;
-    margin-top: 5%;
-    margin-bottom: 14%;
+  button#tema2 {
+    margin-left: 85%;
+  }
+  button#tema3 {
+    margin-left: 40%;
+  }
+  button#tema4 {
+    margin-left: 85%;
+  }
+  button#tema5 {
+    margin-left: 85%;
   }
 }
