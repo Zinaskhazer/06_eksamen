@@ -309,13 +309,12 @@ button#projektKnap {
   margin-bottom: 14%;
 }
 
-/* ###### Se tema 2 projekt container og knap  ###### */
+/* ###### Se tema projekt containere og knapper  ###### */
 div#setema2,
-.div#setema3,
-.div#setema4,
-.div#setema5 {
+.div#setema3 {
   text-align: center;
 }
+/* ###### tema2, 4 og 5 har samme styling som tema2   ###### */
 button#tema2 {
   font-family: "josefin-sans", sans-serif;
   font-size: 15px;
@@ -331,34 +330,6 @@ button#tema2 {
 /* ###### Se tema 3 projekt container og knap  ###### */
 
 button#tema3 {
-  font-family: "josefin-sans", sans-serif;
-  font-size: 15px;
-  font-weight: 700;
-  border: 3px solid #e34a6f;
-  border-radius: 15px;
-  width: 200px;
-  height: 75px;
-  background-color: #ffffff;
-  margin-top: 12%;
-}
-
-/* ###### Se tema 4 projekt container og knap  ###### */
-
-button#tema4 {
-  font-family: "josefin-sans", sans-serif;
-  font-size: 15px;
-  font-weight: 700;
-  border: 3px solid #e34a6f;
-  border-radius: 15px;
-  width: 200px;
-  height: 75px;
-  background-color: #ffffff;
-  margin-top: 12%;
-}
-
-/* ###### Se tema 5 projekt container og knap  ###### */
-
-button#tema5 {
   font-family: "josefin-sans", sans-serif;
   font-size: 15px;
   font-weight: 700;
