@@ -362,11 +362,12 @@ button#tema3 {
 .tema3-htmlfil,
 .tema3-styletile,
 .tema3-moodboard,
+.tema4-papirprototype,
 .tema4-aktivitetsdiagram,
 .tema4-statemachinediagram,
 .tema4-javascript,
 .tema5-github,
-.tema5-htmlfil {
+.tema5-site {
   display: flex;
   flex-direction: column;
   align-items: center;
