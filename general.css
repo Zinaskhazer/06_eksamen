@@ -341,7 +341,7 @@ button#tema3 {
   margin-top: 12%;
 }
 
-/* ######  Styling til alle temaer ###### */
+/* ######  Styling af tekster til alle temaer ###### */
 
 .tema2-tekst,
 .tema3-tekst,
@@ -355,7 +355,7 @@ button#tema3 {
   padding: 51px;
   margin-top: -36px;
 }
-
+/* ######  Styling af billeder til alle temaer ###### */
 .tema2-grid,
 .tema2-htmlfil,
 .tema3-grid,

@@ -1,5 +1,5 @@
 body {
-  background-color: #e5e3db;
+  background-color: #dfc6c6;
 }
 
 h1 {
@@ -51,11 +51,6 @@ h2 {
   margin-top: -2%;
 }
 
-.grid_1 {
-  display: grid;
-  justify-items: center;
-  margin-top: 5%;
-}
 .grid_1-1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
