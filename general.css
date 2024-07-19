@@ -235,6 +235,7 @@ footer {
     width: 80%;
   }
 }
+/* ######## Mobil logo styling ########## */
 
 @media (max-width: 768px) {
   /* skjuler desktop logo helt */
@@ -242,7 +243,6 @@ footer {
     display: none;
     visibility: hidden;
   }
-  /* ######## Mobil logo styling ########## */
 
   img.logo-mobil {
     width: 30%;
