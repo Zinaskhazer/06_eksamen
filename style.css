@@ -68,8 +68,7 @@ h2 {
     grid-template-columns: 1fr;
   }
 
-  .boks1,
-  .boks2 {
+  .boks1 {
     margin-bottom: 40px;
   }
   a {
