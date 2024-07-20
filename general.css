@@ -285,7 +285,7 @@ footer {
   }
 }
 
-/* ###### Se mine projekter container og knap  ###### */
+/* ###### Se mine projekter container og knap (forsiden) ###### */
 div#semineprojekter {
   text-align: center;
   position: relative;
@@ -309,43 +309,10 @@ div#setema2,
 .div#setema3 {
   text-align: center;
 }
-/* ###### tema2, 4 og 5 har samme styling som tema2   ###### */
-button#tema2 {
-  font-family: "josefin-sans", sans-serif;
-  font-size: 15px;
-  font-weight: 700;
-  border: 3px solid #e34a6f;
-  border-radius: 15px;
-  width: 200px;
-  height: 75px;
-  background-color: #ffffff;
-  margin-top: 12%;
-}
-
-/* ###### Se tema 3 projekt container og knap  ###### */
-
-button#tema3 {
-  font-family: "josefin-sans", sans-serif;
-  font-size: 15px;
-  font-weight: 700;
-  border: 3px solid #e34a6f;
-  border-radius: 15px;
-  width: 200px;
-  height: 75px;
-  background-color: #ffffff;
-  margin-top: 12%;
-}
-button#tema4 {
-  font-family: "josefin-sans", sans-serif;
-  font-size: 15px;
-  font-weight: 700;
-  border: 3px solid #e34a6f;
-  border-radius: 15px;
-  width: 200px;
-  height: 75px;
-  background-color: #ffffff;
-  margin-top: 12%;
-}
+/* ######  se tema projekt knapper ###### */
+button#tema2,
+button#tema3,
+button#tema4,
 button#tema5 {
   font-family: "josefin-sans", sans-serif;
   font-size: 15px;

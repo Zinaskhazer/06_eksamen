@@ -158,13 +158,13 @@ h2 {
     font-size: 22px;
     line-height: 50px;
   }
-  /* ###### tema knapper styling */
+  /* ###### tema knapper styling (desktop) */
   button#tema2,
   button#tema5 {
     margin-left: 85%;
   }
   button#tema3 {
-    margin-left: 7%;
+    margin-left: 3%;
   }
   button#tema4 {
     margin-left: 80%;
