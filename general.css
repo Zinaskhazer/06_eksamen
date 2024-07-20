@@ -335,6 +335,28 @@ button#tema3 {
   background-color: #ffffff;
   margin-top: 12%;
 }
+button#tema4 {
+  font-family: "josefin-sans", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  border: 3px solid #e34a6f;
+  border-radius: 15px;
+  width: 200px;
+  height: 75px;
+  background-color: #ffffff;
+  margin-top: 12%;
+}
+button#tema5 {
+  font-family: "josefin-sans", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  border: 3px solid #e34a6f;
+  border-radius: 15px;
+  width: 200px;
+  height: 75px;
+  background-color: #ffffff;
+  margin-top: 12%;
+}
 
 /* ######  Styling af tekster til alle temaer ###### */
 
