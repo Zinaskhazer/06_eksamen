@@ -23,7 +23,7 @@ img {
   display: block;
   border-radius: 10px;
 }
-/* ----------------------------HEADER / BURGERMENU MOBIL VERSION---------------------------- */
+/* ---------------------------- HEADER / BURGERMENU MOBIL VERSION---------------------------- */
 
 .header {
   background-color: var(--primary);
@@ -159,7 +159,7 @@ footer {
   font-style: normal;
 }
 
-/* ----------------------------DESKTOP---------------------------- */
+/* ---------------------------- MENU DESKTOP---------------------------- */
 
 @media (min-width: 768px) {
   header {
@@ -343,7 +343,7 @@ button#tema5 {
   text-align: center;
   margin: auto;
   line-height: 2rem;
-  padding: 51px;
+  padding: 25px;
   margin-top: -36px;
 }
 /* ######  Styling af billeder til alle temaer ###### */
