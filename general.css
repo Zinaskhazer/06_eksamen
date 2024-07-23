@@ -23,7 +23,7 @@ img {
   display: block;
   border-radius: 10px;
 }
-/* ----------------------------HEADER / BURGERMENU---------------------------- */
+/* ----------------------------HEADER / BURGERMENU MOBIL VERSION---------------------------- */
 
 .header {
   background-color: var(--primary);
@@ -46,6 +46,13 @@ img {
   display: block;
   padding: 20px 20px;
   text-decoration: none;
+}
+.menu a:hover {
+  color: var(--accent);
+  font-family: "josefin-sans", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #e34a6f;
 }
 
 .header .menu {
