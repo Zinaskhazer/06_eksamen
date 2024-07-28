@@ -81,7 +81,7 @@ img {
 
 .header .menu-icon .navicon:before,
 .header .menu-icon .navicon:after {
-  background: #333;
+  background: #000000;
   content: "";
   display: block;
   height: 100%;
@@ -343,7 +343,7 @@ button#tema5 {
   text-align: center;
   margin: auto;
   line-height: 2rem;
-  padding: 25px;
+  padding: 20px;
   margin-top: -36px;
 }
 /* ######  Styling af billeder til alle temaer ###### */
