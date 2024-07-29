@@ -24,8 +24,7 @@ h2 {
   width: 100%;
   margin-bottom: 80px;
 }
-.tekst1,
-.tekst2 {
+.tekst1 {
   margin: 5rem;
   font-size: 18px;
   font-family: "josefin-sans", sans-serif;
@@ -40,13 +39,6 @@ h2 {
   font-size: 150%;
 }
 
-#overskrift1 {
-  padding-bottom: 5rem;
-  padding-top: 5rem;
-  font-size: 150%;
-  margin-top: -2%;
-}
-
 /* Grid for om mig siden (desktop) */
 .grid_1-1 {
   display: grid;
@@ -55,8 +47,7 @@ h2 {
 }
 
 @media (max-width: 768px) {
-  .tekst1,
-  .tekst2 {
+  .tekst1 {
     margin: 1rem;
     font-size: 16px;
   }
