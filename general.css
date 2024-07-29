@@ -27,7 +27,7 @@ img {
 }
 
 /* ---------------------------- HEADER / BURGERMENU MOBIL VERSION---------------------------- */
-
+/* Header styling */
 .header {
   background-color: var(--primary);
   width: 100%;
@@ -40,7 +40,7 @@ img {
   overflow: hidden;
   background-color: var(--primary);
 }
-
+/* Links styling */
 .header li a {
   font-family: "josefin-sans", sans-serif;
   font-weight: 400;
@@ -50,6 +50,7 @@ img {
   padding: 20px 20px;
   text-decoration: none;
 }
+/* Menu styling */
 .menu a:hover {
   font-family: "josefin-sans", sans-serif;
   font-weight: 600;
@@ -62,6 +63,7 @@ img {
   max-height: 0;
   transition: max-height 0.2s ease-out;
 }
+/* Menu icon styling */
 
 .header .menu-icon {
   cursor: pointer;
