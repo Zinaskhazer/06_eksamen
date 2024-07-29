@@ -167,6 +167,7 @@ h2 {
     margin-left: 85%;
   }
 }
+/* (DEKSTOP) */
 
 /* ###### Se mine projekter container og knap (forsiden) ###### */
 div#semineprojekter {
@@ -192,7 +193,7 @@ div#setema2,
 .div#setema3 {
   text-align: center;
 }
-/* ######  se tema projekt knapper (mobil) ###### */
+/* ######  se tema projekt knapper ###### */
 button#tema2,
 button#tema3,
 button#tema4,
