@@ -46,14 +46,8 @@ h2 {
   font-size: 150%;
   margin-top: -2%;
 }
-.cv_punkter {
-  color: black;
-  font-family: "josefin-sans", sans-serif;
-  font-weight: 300;
-}
 
 /* Grid for om mig siden (desktop) */
-
 .grid_1-1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
