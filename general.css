@@ -5,12 +5,14 @@
 }
 
 html {
-  --primary: #dfc6c6;
   --accent: #e34a6f;
 }
 
 body {
   background-color: var(--primary);
+}
+body {
+  background-color: #dfc6c6;
 }
 
 main {
@@ -23,6 +25,7 @@ img {
   display: block;
   border-radius: 10px;
 }
+
 /* ---------------------------- HEADER / BURGERMENU MOBIL VERSION---------------------------- */
 
 .header {

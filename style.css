@@ -1,7 +1,3 @@
-body {
-  background-color: #dfc6c6;
-}
-
 h1 {
   font-size: 70px;
   text-align: center;
@@ -49,6 +45,11 @@ h2 {
   padding-top: 5rem;
   font-size: 150%;
   margin-top: -2%;
+}
+.cv_punkter {
+  color: black;
+  font-family: "josefin-sans", sans-serif;
+  font-weight: 300;
 }
 
 /* Grid for om mig siden (desktop) */
