@@ -39,13 +39,13 @@ h2 {
   font-size: 150%;
 }
 
-/* Grid for om mig siden (desktop) */
+/* Grid for OM MIG siden (desktop) */
 .grid_1-1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin-top: 5%;
 }
-
+/* mobilversion) */
 @media (max-width: 768px) {
   .tekst1 {
     margin: 1rem;
@@ -88,7 +88,7 @@ h2 {
     padding-bottom: 2rem;
   }
 }
-/* Grid for projekter siden (mobile first) */
+/* Grid layout af billeder for projekter siden (mobile first) */
 .grid2-img {
   display: grid;
   grid-template-columns: 1fr;
@@ -105,7 +105,7 @@ h2 {
   border-radius: 10px;
 }
 
-/* Grid for projekter siden (desktop) */
+/* (desktop) */
 @media only screen and (min-width: 750px) {
   #mig {
     width: 100%;
@@ -127,7 +127,7 @@ h2 {
     font-size: 1.1rem;
     line-height: 28px;
   }
-
+  /* Grid for projekter siden (desktop) */
   .grid2-img {
     grid-template-columns: 1fr 1fr; /* To kolonner */
     justify-items: center;
@@ -166,4 +166,85 @@ h2 {
   button#tema4 {
     margin-left: 85%;
   }
+}
+
+/* ###### Se mine projekter container og knap (forsiden) ###### */
+div#semineprojekter {
+  text-align: center;
+  position: relative;
+}
+
+button#projektKnap {
+  font-family: "josefin-sans", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  border: 3px solid #e34a6f;
+  border-radius: 15px;
+  width: 200px;
+  height: 75px;
+  background-color: #ffffff;
+  margin-top: 10%;
+  margin-bottom: 14%;
+}
+
+/* ###### Se tema projekt containere og knapper  ###### */
+div#setema2,
+.div#setema3 {
+  text-align: center;
+}
+/* ######  se tema projekt knapper (mobil) ###### */
+button#tema2,
+button#tema3,
+button#tema4,
+button#tema5 {
+  font-family: "josefin-sans", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  border: 3px solid #e34a6f;
+  border-radius: 15px;
+  width: 200px;
+  height: 75px;
+  background-color: #ffffff;
+  margin-top: 12%;
+}
+
+/* ######  Styling af tekster til alle temaer ###### */
+
+.tema2-tekst,
+.tema3-tekst,
+.tema4-tekst,
+.tema5-tekst {
+  font-family: "josefin-sans", sans-serif;
+  font-weight: 300;
+  text-align: center;
+  margin: auto;
+  line-height: 2rem;
+  padding: 20px;
+  margin-top: -36px;
+}
+/* ######  Styling af billeder til alle temaer ###### */
+.tema2-grid,
+.tema2-htmlfil,
+.tema3-grid,
+.tema3-htmlfil,
+.tema3-styletile,
+.tema3-moodboard,
+.tema4-papirprototype,
+.tema4-aktivitetsdiagram,
+.tema4-statemachinediagram,
+.tema4-javascript,
+.tema5-github,
+.tema5-site {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.tema2 img,
+.tema3 img,
+.tema4 img,
+.tema5 img {
+  max-width: 100%;
+  height: auto;
 }
