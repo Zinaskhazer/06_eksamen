@@ -83,6 +83,7 @@ h2 {
   p {
     font-size: 16px;
     line-height: 1.5rem;
+    padding: 3%;
   }
   #overskrift {
     padding-bottom: 2rem;
@@ -240,6 +241,7 @@ button#tema5 {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  padding: 4%;
 }
 
 .tema2 img,
@@ -248,4 +250,8 @@ button#tema5 {
 .tema5 img {
   max-width: 100%;
   height: auto;
+}
+#forsidebillede {
+  padding: 3%;
+  border-radius: 7%;
 }
